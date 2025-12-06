@@ -14,11 +14,11 @@
           },
           {
               "chainId": 2201,
-              "address": "0x804f2E7133d820092D1cb0DA7a77385ECf6e1692",
-              "name": "Wrapped gUSDT",
-              "symbol": "WGUSDT",
+              "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+              "name": "USDT0",
+              "symbol": "USDT0",
               "decimals": 18,
-              "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/gusdt.svg"
+              "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/USDT0.png"
           }
       ]
   }
