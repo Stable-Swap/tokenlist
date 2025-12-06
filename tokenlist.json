@@ -5,7 +5,7 @@
       "timestamp": "2025-09-25 19:23:00",
       "tokens": [
           {
-              "chainId": 2201,
+              "chainId": 988,
               "address": "0xf623BF8d7872b4B4C93bE2E5CD6987A5c0dcAE32",
               "name": "StableSwap",
               "symbol": "STA",
@@ -13,12 +13,12 @@
               "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/sta.png"
           },
           {
-              "chainId": 2201,
+              "chainId": 988,
               "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
               "name": "USDT0",
               "symbol": "USDT0",
-              "decimals": 18,
-              "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/USDT0.png"
+              "decimals": 6,
+              "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/usdt0.png"
           }
       ]
   }
