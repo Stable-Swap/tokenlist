@@ -5,20 +5,44 @@
       "timestamp": "2025-09-25 19:23:00",
       "tokens": [
           {
-              "chainId": 988,
-              "address": "0x593c0Ac01A048f41be9bdBb57E854A8aE850a017",
-              "name": "StableSwap",
-              "symbol": "STA",
-              "decimals": 18,
-              "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/sta.png"
-          },
-          {
-              "chainId": 988,
-              "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
-              "name": "USDT0",
-              "symbol": "USDT0",
-              "decimals": 6,
-              "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/usdt0.png"
-          }
+      "chainId": 988,
+      "address": "0x593c0Ac01A048f41be9bdBb57E854A8aE850a017",
+      "name": "StableSwap",
+      "symbol": "STA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/sta.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0x89C3e9BA11414E1D2c6F3E751d6f687682928283",
+      "name": "Wrapped gUSDT",
+      "symbol": "wgUSDT",
+      "decimals": 18,
+      "logoURI": "/tokens/stablecoin/usdt.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Stable-Swap/tokenlist/main/assets/usdt0.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
+      "name": "BTCb",
+      "symbol": "BTCb",
+      "decimals": 8,
+      "logoURI": "/tokens/BTCb.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0x0000000000000000000000000000000000001003",
+      "name": "Stable Token",
+      "symbol": "STABLE",
+      "decimals": 18,
+      "logoURI": "/tokens/stable.png"
+    }
       ]
   }
